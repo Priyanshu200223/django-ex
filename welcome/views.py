@@ -1,5 +1,5 @@
 import os
-from django.shortcuts import render
+from django.shortcuts import render #for index.html 
 from django.conf import settings
 from django.http import HttpResponse
 
